@@ -11,3 +11,5 @@ domain:python duration:4 weeks
 mentor:neela santhosh
 
 output
+
+![Image](https://github.com/user-attachments/assets/e6534af5-99bf-4c9a-a75b-c7eda6372bd6)
